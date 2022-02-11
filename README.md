@@ -1,7 +1,6 @@
-
-# Guilio Marin
-# Student - Edinburgh Napier Uni
-# SEM08803 - Software Engineering Methods
+ **Guilio Marin** <br>
+ **Student - Edinburgh Napier Uni** <br>
+ **SEM08803 - Software Engineering Method** <br> <br>
 ![workflow](https://github.com/GuilioM/sem/actions/workflows/main.yml/badge.svg) <br>
 [![LICENSE](https://img.shields.io/github/license/GuilioM/sem.svg?style=flat-square)](https://github.com/GuilioM/sem/blob/master/LICENSE) <br>
 [![Releases](https://img.shields.io/github/release/GuilioM/sem/all.svg?style=flat-square)](https://github.com/GuilioM/sem/releases) <br>
