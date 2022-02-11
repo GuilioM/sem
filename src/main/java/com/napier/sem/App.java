@@ -9,8 +9,8 @@ import javax.print.Doc;
 
 public class App {
     public static void main(String[] args){
-        //Connecting to MongoDB on local system using port 27000
-        MongoClient mongoClient = new MongoClient("localhost", 27000);
+        //Connecting to MongoDB
+        MongoClient mongoClient = new MongoClient("mongo-dbserver");
 
         //Get a db
         MongoDatabase db = mongoClient.getDatabase("mydb");
